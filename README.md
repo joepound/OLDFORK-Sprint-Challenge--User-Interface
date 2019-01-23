@@ -1,4 +1,4 @@
-# This is an old fork.
+# [NOTICE: this is an old fork]
 
 This project is left intact for posterity. WIP continues here: https://github.com/joepound/IUIG-Sprint
 
