@@ -1,6 +1,8 @@
 # [NOTICE: this is an old fork]
 
-This project is left intact for posterity. WIP continues here: https://github.com/joepound/IUIG-Sprint
+This repository has been left intact for posterity. 
+
+WIP continues here: https://github.com/joepound/IUIG-Sprint
 
 # Assessing Your User Interface and Git Learning
 
