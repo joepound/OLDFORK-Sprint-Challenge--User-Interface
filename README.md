@@ -1,3 +1,7 @@
+# This is an old fork.
+
+This project is left intact for posterity. WIP continues here: https://github.com/joepound/IUIG-Sprint
+
 # Assessing Your User Interface and Git Learning
 
 [This is a quick video preview of what to expect from sprint challenges.](https://youtu.be/daFDLHMPdjw)
